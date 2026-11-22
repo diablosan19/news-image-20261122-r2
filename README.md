@@ -1,6 +1,6 @@
 [![news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/c/news-image-20261122)
-[![rank](https://make.fun/badge/news-image-20261122/diablosan19/news-image-20261122/rank.svg)](https://make.fun/c/news-image-20261122)
-[![reward](https://make.fun/badge/news-image-20261122/diablosan19/news-image-20261122/reward.svg)](https://make.fun/c/news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/diablosan19/news-image-20261122-r2/rank.svg)](https://make.fun/c/news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/diablosan19/news-image-20261122-r2/reward.svg)](https://make.fun/c/news-image-20261122)
 
 # The World Today — Sunday 22 November 2026 (denser rebuild)
 
